@@ -11,8 +11,8 @@
   content: "";
   position: absolute;
   top: 4px;
-  left: 5px;
-  /* right: 5px; */
+  left: unset;
+  right: 5px;
   bottom: 4px;
   width: 45%;
   background: rgb(243, 244, 246);

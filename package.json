@@ -6,6 +6,8 @@
     "serve": "vite preview"
   },
   "devDependencies": {
+    "purgecss": "^4.0.3",
+    "tailwindcss": "^2.2.4",
     "vite": "^2.4.0"
   }
 }
